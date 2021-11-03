@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "School",
+"productVersion": "0.1",
+"dataUrl": "ASTERS_Prod.data.unityweb",
+"wasmCodeUrl": "ASTERS_Prod.wasm.code.unityweb",
+"wasmFrameworkUrl": "ASTERS_Prod.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.2f1"
+}
